@@ -1,0 +1,6 @@
+type,key,value
+1,github.com,12.34.56.78
+5,www.github.com,github.com
+1,www.google.com,87.65.43.21
+5,google.com,www.google.com
+1,services.addons.mozilla.org,54.230.21.65
